@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lofi",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "purediscstrailstales:music_disc_crescent_dunes"
+    },
+    "1": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "purediscslofi:music_disc_crescent_dunes_lofi",
+    "count": 1
+  },
+   "fabric:load_conditions": [
+    {
+    "condition": "fabric:all_mods_loaded",
+    "values": [
+      "purediscstrailstales"
+      ]
+    }
+  ],
+   "conditions": [
+    {
+    "type": "forge:mod_loaded",
+    "modid": "purediscstrailstales"
+    }
+  ]
+}

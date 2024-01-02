@@ -1,0 +1,47 @@
+{
+  "a_familiar_room_lofi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscslofi:a_familiar_room_-_lofi",
+        "stream": true
+      }
+    ]
+  },
+  "bromeliad_lofi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscslofi:bromeliad_-_lofi",
+        "stream": true
+      }
+    ]
+  },
+  "crescent_dunes_lofi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscslofi:crescent_dunes_-_lofi",
+        "stream": true
+      }
+    ]
+  },
+  "echo_in_the_wind_lofi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscslofi:echo_in_the_wind_-_lofi",
+        "stream": true
+      }
+    ]
+  },
+  "relic_lofi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscslofi:relic_-_lofi",
+        "stream": true
+      }
+    ]
+  }
+}
