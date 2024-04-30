@@ -3,12 +3,12 @@
   "id": "purediscslofi",
   "version": "1.0.0",
   "name": "Pure Discs - Lofi Edition",
-  "description": "Adds multiple lofi editions of existing Minecraft songs!",
+  "description": "Adds multiple lofi editions of existing Minecraft discs!",
   "authors": [
     "purejosh"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/pure-discs-lofi-fabric-forge",
+    "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/purediscslofi",
     "sources": ""
   },
   "license": "Custom license",
