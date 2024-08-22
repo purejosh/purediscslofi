@@ -1,0 +1,10 @@
+{
+  "comparator_output": 14,
+  "description": {
+    "translate": "item.purediscslofi.music_disc_echo_in_the_wind_lofi.desc"
+  },
+  "length_in_seconds": 262,
+  "sound_event": {
+    "sound_id": "purediscslofi:music_disc.echo_in_the_wind_lofi"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "comparator_output": 14,
+  "description": {
+    "translate": "item.purediscslofi.music_disc_a_familiar_room_lofi.desc"
+  },
+  "length_in_seconds": 231,
+  "sound_event": {
+    "sound_id": "purediscslofi:music_disc.a_familiar_room_lofi"
+  }
+}

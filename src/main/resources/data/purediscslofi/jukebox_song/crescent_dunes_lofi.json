@@ -1,0 +1,10 @@
+{
+  "comparator_output": 14,
+  "description": {
+    "translate": "item.purediscslofi.music_disc_crescent_dunes_lofi.desc"
+  },
+  "length_in_seconds": 218,
+  "sound_event": {
+    "sound_id": "purediscslofi:music_disc.crescent_dunes_lofi"
+  }
+}

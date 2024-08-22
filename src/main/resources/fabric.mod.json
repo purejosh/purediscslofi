@@ -1,34 +1,42 @@
 {
-  "schemaVersion": 1,
-  "id": "purediscslofi",
-  "version": "1.0.0",
-  "name": "Pure Discs - Lofi Edition",
-  "description": "Adds multiple lofi editions of existing Minecraft discs!",
-  "authors": [
-    "purejosh"
-  ],
-  "contact": {
-    "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/purediscslofi",
-    "sources": ""
-  },
-  "license": "Custom license",
-  "icon": "assets/purediscslofi/icon.png",
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.purejosh.purediscslofi.PurediscslofiMod"
-    ],
-    "client": [
-      "net.purejosh.purediscslofi.ClientInit"
-    ]
-  },
-  "depends": {
-    "fabricloader": ">=0.14.21",
-    "fabric": "*",
-    "minecraft": "~1.20",
-    "java": ">=17"
-  },
-  "mixins": [
-    "purediscslofi.mixins.json"
-  ]
+	"schemaVersion": 1,
+	"id": "purediscslofi",
+	"version": "2.0.0",
+	"name": "Pure Discs - Lofi Edition",
+	"description": "Adds multiple lofi editions of existing Minecraft songs!",
+	"authors": [
+		"purejosh"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/purediscslofi",
+		"sources": "https://github.com/purejosh/purediscslofi",
+		"issues": "https://github.com/purejosh/purediscslofi/issues"
+	},
+	"license": "MIT-R-NR",
+	"icon": "assets/purediscslofi/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.purejosh.purediscslofi.PureDiscsLofi"
+		],
+		"client": [
+			"net.purejosh.purediscslofi.PureDiscsLofiClient"
+		]
+	},
+	"mixins": [
+		"purediscslofi.mixins.json",
+		{
+			"config": "purediscslofi.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
 }

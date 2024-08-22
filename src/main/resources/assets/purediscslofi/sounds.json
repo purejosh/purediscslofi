@@ -1,46 +1,36 @@
 {
-  "a_familiar_room_lofi": {
-    "category": "record",
+  "music_disc.a_familiar_room_lofi": {
     "sounds": [
       {
-        "name": "purediscslofi:a_familiar_room_-_lofi",
-        "stream": true
+        "name": "purediscslofi:a_familiar_room_lofi"
       }
     ]
   },
-  "bromeliad_lofi": {
-    "category": "record",
+  "music_disc.bromeliad_lofi": {
     "sounds": [
       {
-        "name": "purediscslofi:bromeliad_-_lofi",
-        "stream": true
+        "name": "purediscslofi:bromeliad_lofi"
       }
     ]
   },
-  "crescent_dunes_lofi": {
-    "category": "record",
+  "music_disc.crescent_dunes_lofi": {
     "sounds": [
       {
-        "name": "purediscslofi:crescent_dunes_-_lofi",
-        "stream": true
+        "name": "purediscslofi:crescent_dunes_lofi"
       }
     ]
   },
-  "echo_in_the_wind_lofi": {
-    "category": "record",
+  "music_disc.echo_in_the_wind_lofi": {
     "sounds": [
       {
-        "name": "purediscslofi:echo_in_the_wind_-_lofi",
-        "stream": true
+        "name": "purediscslofi:echo_in_the_wind_lofi"
       }
     ]
   },
-  "relic_lofi": {
-    "category": "record",
+  "music_disc.relic_lofi": {
     "sounds": [
       {
-        "name": "purediscslofi:relic_-_lofi",
-        "stream": true
+        "name": "purediscslofi:relic_lofi"
       }
     ]
   }

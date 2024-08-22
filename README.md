@@ -1,10 +1,10 @@
 # Pure Discs - Lofi Edition
 
-Pure Discs - Lofi Edition adds multiple lofi editions of existing Minecraft discs!
+Pure Discs - Lofi Edition adds multiple lofi editions of existing Minecraft songs!
 
 ## Download
 
-Get the latest download for your mod loader at [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/purediscslofi) or [Modrinth](https://modrinth.com/mod/purediscslofi).
+Get the latest download for your mod loader at [CurseForge](https://www.curseforge.com/minecraft/mc-mods/purediscslofi) or [Modrinth](https://modrinth.com/mod/purediscslofi).
 
 ## Issues or Suggestions
 

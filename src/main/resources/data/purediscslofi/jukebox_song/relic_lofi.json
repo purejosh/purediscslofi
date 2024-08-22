@@ -1,0 +1,10 @@
+{
+  "comparator_output": 14,
+  "description": {
+    "translate": "item.purediscslofi.music_disc_relic_lofi.desc"
+  },
+  "length_in_seconds": 273,
+  "sound_event": {
+    "sound_id": "purediscslofi:music_disc.relic_lofi"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "comparator_output": 14,
+  "description": {
+    "translate": "item.purediscslofi.music_disc_bromeliad_lofi.desc"
+  },
+  "length_in_seconds": 223,
+  "sound_event": {
+    "sound_id": "purediscslofi:music_disc.bromeliad_lofi"
+  }
+}
